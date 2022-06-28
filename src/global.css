@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply text-[#f9f9f9] bg-spiderBackground bg-slate-900 md:bg-cover;
+    @apply text-[#f9f9f9] bg-slate-900 md:bg-cover;
   }
 }
 
