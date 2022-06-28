@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'spiderBackground': "url('https://www.ubackground.com/_ph/86/348973984.jpg')",
+        'spiderBackground': "url('https://www.xtrafondos.com/en/descargar.php?id=8751&resolucion=1920x1080')",
         'spiderBackground-2': "url('src/assets/image 54.png')",
       }
     },
