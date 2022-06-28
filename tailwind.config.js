@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'spiderBackground': "url('src/assets/bg-1.png')",
+        'spiderBackground': "url('https://images8.alphacoders.com/104/1043461.jpg')",
         'spiderBackground-2': "url('src/assets/image 54.png')",
       }
     },
