@@ -34,9 +34,6 @@ Project aimed at implementing a back-end, which focuses on making a request for 
  - [x] GraphQL
  - [x] GraphCMS
 
-#### 📹 VIDEOS:
- - [x] VimeJS
-
 #### 🖥 DEPLOY:
  - [x] Vercel
 
